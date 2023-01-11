@@ -1,0 +1,21 @@
+{
+  "name": "xhipment-assignment",
+  "version": "1.0.0",
+  "description": "application to manage a job board for software developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahesh Dhage",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1292.0",
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.3",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20"
+  }
+}
